@@ -18,7 +18,7 @@ Aplikasi yang memungkinkan anda dalam mengelola data pasien rumah sakit. Beberap
 
 Dibawah ini adalah foto dari Menu Utama :
 
-![image](C:\Users\ddghd\Pictures\Screenshots\mainmenu.png)
+![mainmenu](https://github.com/user-attachments/assets/5c85697c-1f27-4a21-b40d-f604d6ce2d30)
 
 ---
 
@@ -27,15 +27,16 @@ Mari kita lihat satu per satu fiturnya.
 
 ### **1. Melihat Daftar Pasien**
 
-![image]
+![viewpatientdata](https://github.com/user-attachments/assets/310dd49f-fdf3-4332-b7b5-80490aa678e3)
 
 Pada menu ini anda dapat melihat data pasien. Anda dapat melihat ID, nama, umur, ruangan dan status dari pasien tersebut. ID disini digunakan sebagai kunci untuk melakukan tindakan didalam aplikasi.
 
 Anda dapat melihat data seluruh pasien atau sebagian data, artinya anda dapat mencari pasien tertentu berdasarkan ID nya. Kemampuan pencarian ini tidak menghiraukan apakah ID tersebut menggunakan huruf besar atau tidak.
 
-#### **Melihat Nama Pasien Melalui Id**
+#### **- Melihat Nama Pasien Melalui Id**
 
-![image]
+![viewfromID](https://github.com/user-attachments/assets/e8b6e61b-1848-4038-b048-ad2a70723129)
+
 
 Pada menu ini anda dapat melihat data dari pasien tertentu, dengan mengetikkan ID dari pasien tersebut. Maka anda akan melihat ID, nama, umur, ruangan dan status pasien tersebut.
 
@@ -43,7 +44,8 @@ Pada menu ini anda dapat melihat data dari pasien tertentu, dengan mengetikkan I
 
 ### **2. Pasien Check In**
 
-![image]
+![addpatient](https://github.com/user-attachments/assets/d5e08876-8c02-4580-b301-7f13998b41bc)
+
 
 Pada menu ini, memungkinkan anda untuk melakukan check-in pasien atau menambah data pasien baru masuk.
 
@@ -51,11 +53,15 @@ Pertama anda diharuskan untuk mengecek ID, jika ID sudah terpakai maka anda diha
 
 Jika ID yang di input belum ada maka anda akan diarahkan untuk mengisi data pasien seperti nama, umur, ruangan yang kosong dan statusnya.
 
+![dataafteradding](https://github.com/user-attachments/assets/c6b108dd-7358-4860-a8fd-e783b34cd89a)
+
+
 ---
 
 ### **3. Mengedit Data Pasien**
 
-![image]
+![updatepatientdata](https://github.com/user-attachments/assets/df3991f6-b6db-4890-b91b-2f589d5c7f1f)
+
 
 Pada menu ini anda dapat merubah data dari pasien tertentu dengan memasukkan ID dari pasien yang ingin anda ubah. Dan anda dapat memilih data apa yang ingin anda ubah
 
@@ -65,7 +71,8 @@ Dengan menu ini anda dapat merubah semua data dari pasien seperti ID, nama, umur
 
 ### **4. Pasien Check Out**
 
-![image]
+![deletepatientdata](https://github.com/user-attachments/assets/3110c013-0446-48de-808c-8af070b7eca5)
+
 
 Pada menu ini memungkinkan anda untuk mengahpus data dari pasien tertentu dengan memilih ID dari pasien yang ingin anda hapus.
 
@@ -75,6 +82,7 @@ Dengan begitu semua data dari pasien yang anda pilih akan terhapus atau dinyatak
 
 ### **5. Cek History Pasien**
 
-![image]
+![historycheckout](https://github.com/user-attachments/assets/496b6b1f-47f1-44e5-92ff-957df7ae5ea8)
+
 
 Pada menu ini anda dapat melihat pasien yang telah check-out atau data dari pasien yang dihapus akan otomatis masuk kedalam history pasien.
